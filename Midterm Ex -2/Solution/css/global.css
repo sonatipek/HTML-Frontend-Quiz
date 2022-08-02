@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Tahoma,'Segoe UI',  Geneva, Verdana, sans-serif;
+    background-image: url(/images/body-bg.png);
+}
