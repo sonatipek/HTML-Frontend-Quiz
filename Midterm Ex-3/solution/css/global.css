@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/img/bg-body.jpg);
+    font-family: arial;
+    color: white;
+}
+
+.active{
+    background-image: url(/img/bg-menu-selected.jpg);
+    color: white !important;
+}

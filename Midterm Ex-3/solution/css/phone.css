@@ -1,0 +1,19 @@
+#navbar .nav-items{
+    display: none;
+}
+
+/* content */
+#content{
+    flex-direction: column;
+  
+}
+#content .card{
+    width: 100%;
+}
+#content .card .card-img{
+    width: 70%;
+}
+/* contact */
+#contact{
+    display: none;
+}
